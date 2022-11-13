@@ -1,6 +1,6 @@
 - 👋 Hi, this is Haodong Li @ ZJU
 - 👀 Interested in Medical Computer Vision, Truthworthy AI, Neural Computing, Reinforcement Learning ...
-- 🌱 Currently learning Test Oracle Topics for autonomous driving vehicles @ Alibaba DAMO Academy
+- 🌱 Currently learning Test Oracle Topics for autonomous driving vehicles @ Alibaba DAMO Academy (BeyondSoft)
 - 📫 How to reach me: lebronlihd@gmail.com, 3190104890@zju.edu.cn, lhd01574727@alibaba-inc.com
 
 <!---
