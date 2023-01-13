@@ -13,7 +13,7 @@
     <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, Truthworthy AI, Neural Computing, Reinforcement Learning ...</li>
     <li>🌱 <b>I’m currently at</b>: <a href="https://www.zju.edu.cn/">Zhejiang University</a> pursuing B.Eng. degree</li>
     <li>🎯 <b>I’m currently focusing on</b>: Metamorphic Testing of Autonomous Driving System 🚙 (such as <a href="https://developer.apollo.auto/">Apollo</a>)</li>
-    <li> ✈️ <b>I’m currently open for</b>: A new graduate opportunity in the CS domain 💻 </li>
+    <li>✈️ <b>I’m currently open for</b>: A new graduate opportunity in the CS domain 💻 </li>
     <li>📫 <b>Feel free to ask me</b>: about anything via email, or twitter as mentioned below 👇</li>
     <li>☕ <b>In my free time</b>: I pursue Traveling(🌍), Painting (🖌️), Cooking(🥘), and Playing Basketball (🏀).</li>
   </ul>
