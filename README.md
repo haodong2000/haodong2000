@@ -1,9 +1,76 @@
-- 👋 Hi, this is Haodong Li @ ZJU
-- 👀 Interested in Medical Computer Vision, Truthworthy AI, Neural Computing, Reinforcement Learning ...
-- 🌱 Currently learning Test Oracle Topics for autonomous driving vehicles @ Alibaba DAMO Academy (BeyondSoft)
-- 📫 How to reach me: lebronlihd@gmail.com, 3190104890@zju.edu.cn, lhd01574727@alibaba-inc.com
+<img alt="Night Coding" src="https://github.com/rodosingh/rodosingh/blob/main/giphy.webp" width="120" align="left"/>
 
-<!---
-LeBronLiHD/LeBronLiHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there! 👀 this is Haodong Li, welcome 🥳
+
+![GitHub followers](https://img.shields.io/github/followers/LeBronLiHD?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/LeBronLiHD?style=social) ![Visitors](https://vbr.wocr.tk/badge?page_id=LeBronLiHD.repoName) <img src="https://komarev.com/ghpvc/?username=LeBronLiHD" alt="LeBronLiHD" />
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 🤵 &nbsp;About Myself
+
+<div align=left>
+  <ul>
+    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, Truthworthy AI, Neural Computing, Reinforcement Learning ...</li>
+    <li>🌱 <b>I’m currently at</b>: <a href="https://www.zju.edu.cn/">Zhejiang University</a> pursuing B.Eng. degree</li>
+    <li>🎯 <b>I’m currently focusing on</b>: Metamorphic Testing of Autonomous Driving System 🚙 (such as <a href="https://developer.apollo.auto/">Apollo</a>)</li>
+    <li> ✈️ <b>I’m currently open for</b>: A new graduate opportunity in the CS domain 💻 </li>
+    <li>📫 <b>Feel free to ask me</b>: about anything via email, or twitter as mentioned below 👇</li>
+    <li>☕ <b>In my free time</b>: I pursue Traveling(🌍), Painting (🖌️), Cooking(🥘), and Playing Basketball (🏀).</li>
+  </ul>
+</div>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### 🛠 &nbsp;Skills
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=PyTorch)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;\ -->
+<!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; -->
+<!-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; -->
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
+
+<!-- ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp; -->
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
+
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\ -->
+<!-- ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
+
+### 🤝🏻 &nbsp;Connections 
+
+<p align="left">
+<a href="https://lebronlihd.github.io"><img src="https://img.shields.io/badge/-lebronlihd.github.io-207f4c?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://twitter.com/BronHd"><img src="https://img.shields.io/badge/-@BronHd-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/haodong-li-72aa22216"><img src="https://img.shields.io/badge/-haodong.li-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="lebronlihd@gmail.com"><img src="https://img.shields.io/badge/-lebronlihd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="lhd01574727@alibaba-inc.com"><img src="https://img.shields.io/badge/-lhd01574727@alibaba.inc.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-de9a07?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@haodongli5377"><img src="https://img.shields.io/badge/-@haodongli5377-E4405F?style=flat&logo=YouTube&logoColor=white"/></a>
+<!-- <a href="https://facebook.com/RodoAditya"><img src="https://img.shields.io/badge/-@RodoAditya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
+</p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeBronLiHD&theme=tokyonight" alt="mystreak"/>
+
+
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="240" align="right"/> -->
