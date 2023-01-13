@@ -60,7 +60,7 @@
 <a href="https://twitter.com/BronHd"><img src="https://img.shields.io/badge/-@BronHd-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/haodong-li-72aa22216"><img src="https://img.shields.io/badge/-haodong.li-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="lebronlihd@gmail.com"><img src="https://img.shields.io/badge/-lebronlihd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="lhd01574727@alibaba-inc.com"><img src="https://img.shields.io/badge/-lhd01574727@alibaba.inc.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="lhd01574727@alibaba-inc.com"><img src="https://img.shields.io/badge/-lhd01574727@alibaba.inc.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <a href="https://instagram.com/haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-de9a07?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@haodongli5377"><img src="https://img.shields.io/badge/-@haodongli5377-E4405F?style=flat&logo=YouTube&logoColor=white"/></a>
 <!-- <a href="https://facebook.com/RodoAditya"><img src="https://img.shields.io/badge/-@RodoAditya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
