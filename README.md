@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="https://github.com/rodosingh/rodosingh/blob/main/giphy.webp" width="120" align="left"/>
 
-### Hi there! 👀 this is Haodong Li, welcome 🥳
+### Hi there! 👀 this is Haodong Li, welcome 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/LeBronLiHD?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/LeBronLiHD?style=social) ![Visitors](https://vbr.wocr.tk/badge?page_id=LeBronLiHD.repoName) <img src="https://komarev.com/ghpvc/?username=LeBronLiHD" alt="LeBronLiHD" />
 
