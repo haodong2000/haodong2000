@@ -10,12 +10,11 @@
 
 <div align=left>
   <ul>
-    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, Truthworthy AI, Neural Computing, Reinforcement Learning ...</li>
+    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, AI Theory, Meta Learning ...</li>
     <li>🌱 <b>I’m currently at</b>: <a href="https://www.zju.edu.cn/">Zhejiang University</a> pursuing B.Eng. degree</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Metamorphic Testing of Autonomous Driving System 🚙 (such as <a href="https://developer.apollo.auto/">Apollo</a>)</li>
+    <li>🎯 <b>I’m currently focusing on</b>: Few-shot Learning and the Transferability of AI models.</li>
     <li>✈️ <b>I’m currently open for</b>: A post-graduate opportunity in the CS domain 💻 </li>
     <li>📫 <b>Feel free to ask me</b>: about anything via lebronlihd@gmail.com, or other links as mentioned below 👇</li>
-    <li>☕ <b>In my free time</b>: I pursue Traveling(🌍), Painting (🖌️), Cooking(🥘), and Playing Basketball (🏀).</li>
   </ul>
 </div>
 
@@ -68,9 +67,8 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeBronLiHD&theme=tokyonight" alt="mystreak"/>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeBronLiHD&theme=tokyonight" alt="mystreak"/> -->
 
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="240" align="right"/> -->
