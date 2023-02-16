@@ -12,8 +12,6 @@
   <ul>
     <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, AI Theory, Meta Learning ...</li>
     <li>🌱 <b>I’m currently at</b>: <a href="https://www.zju.edu.cn/">Zhejiang University</a> pursuing B.Eng. degree</li>
-    <li>🎯 <b>I’m currently focusing on</b>: Few-shot Learning and the Transferability of AI models.</li>
-    <li>✈️ <b>I’m currently open for</b>: A post-graduate opportunity in the CS domain 💻 </li>
     <li>📫 <b>Feel free to ask me</b>: about anything via lebronlihd@gmail.com, or other links as mentioned below 👇</li>
   </ul>
 </div>
