@@ -24,10 +24,10 @@
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=PyTorch)&nbsp;
-<!-- ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)&nbsp; -->
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; -->
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; -->
+<!-- ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)&nbsp; -->
 <!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; -->
 <!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->
