@@ -2,7 +2,7 @@
 
 ### Hi there! 👀 this is Haodong Li, welcome 👋
 
-![GitHub followers](https://img.shields.io/github/followers/LeBronLiHD?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/LeBronLiHD?style=social) <img src="https://komarev.com/ghpvc/?username=LeBronLiHD" alt="LeBronLiHD" />
+![GitHub followers](https://img.shields.io/github/followers/lebronlihd?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/lebronlihd?style=social) 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -56,7 +56,7 @@
 <a href="https://lebronlihd.github.io"><img src="https://img.shields.io/badge/-lebronlihd.github.io-207f4c?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://twitter.com/haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <!-- <a href="https://linkedin.com/in/haodong-li-72aa22216"><img src="https://img.shields.io/badge/-haodong.li-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
-<a href="lebronlihd@gmail.com"><img src="https://img.shields.io/badge/-lebronlihd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="lebronlihd@gmail.com"><img src="https://img.shields.io/badge/-lebronlihd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <!-- <a href="lhd01574727@alibaba-inc.com"><img src="https://img.shields.io/badge/-lhd01574727@alibaba.inc.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <a href="https://instagram.com/haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-de9a07?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-E4405F?style=flat&logo=YouTube&logoColor=white"/></a>
