@@ -60,7 +60,7 @@
 <!-- <a href="lhd01574727@alibaba-inc.com"><img src="https://img.shields.io/badge/-lhd01574727@alibaba.inc.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <a href="https://instagram.com/haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-de9a07?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://youtube.com/@haodonglizju"><img src="https://img.shields.io/badge/-@haodonglizju-E4405F?style=flat&logo=YouTube&logoColor=white"/></a>
-<!-- <a href="https://facebook.com/RodoAditya"><img src="https://img.shields.io/badge/-@RodoAditya-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<a href="https://facebook.com/haodonglizju/"><img src="https://img.shields.io/badge/-@haodonglizju-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
