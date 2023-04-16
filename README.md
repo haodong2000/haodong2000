@@ -10,7 +10,7 @@
 
 <div align=left>
   <ul>
-    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, AI Theory, Meta Learning ...</li>
+    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, AI Theory, ...</li>
     <li>🌱 <b>I’m currently at</b>: <a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener noreferrer">Zhejiang University</a> pursuing B.Eng. degree</li>
     <li>📫 <b>Feel free to ask me</b>: about anything via <a href="mailto:haodongli@zju.edu.cn" target="_blank" rel="noopener noreferrer">haodongli@zju.edu.cn</a>, or other links as mentioned below 👇</li>
   </ul>
