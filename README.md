@@ -10,8 +10,8 @@
 
 <div align=left>
   <ul>
-    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision, AI Theory, ...</li>
-    <li>🌱 <b>I’m currently at</b>: <a href="https://hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">The Hong Kong University of Science and Technology</a> pursuing M.Phil. degree</li>
+    <li>:thinking: <b>I'd like to dive into</b>: Computer Vision and Machine Learning.</li>
+    <li>🌱 <b>I’m currently at</b>: <a href="https://hkust-gz.edu.cn/" target="_blank" rel="noopener noreferrer">The Hong Kong University of Science and Technology</a> pursuing M.Phil. degree. Now I am working on large multi-task (rPPG, AU, Deepfake, Pain) model on Affective Computing.</li>
     <li>📫 <b>Feel free to ask me</b>: about anything via <a href="mailto:haodongli@hkust-gz.edu.cn" target="_blank" rel="noopener noreferrer">haodongli@hkust-gz.edu.cn</a> / <a href="mailto:lebronlihd@gmail.com" target="_blank" rel="noopener noreferrer">lebronlihd@gmail.com</a>, or other links as mentioned below 👇</li>
   </ul>
 </div>
