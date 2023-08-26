@@ -1,6 +1,6 @@
 ### Hi, this is Haodong Li, welcome!
 
-![GitHub followers](https://img.shields.io/github/followers/lebronlihd?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/lebronlihd?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/haodong2000?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/haodong2000?style=social) 
 
 ### 🤵 &nbsp;About Me
 
